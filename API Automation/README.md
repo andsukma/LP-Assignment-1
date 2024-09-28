@@ -33,7 +33,7 @@ robot tests/create-user.robot
 ```
 ## Reporting
 Once the tests are executed, Robot Framework will generate the following reports in the root directory:
-* output.xml: Raw output file for the test run.
-* report.html: Test summary report.
-* log.html: Detailed test logs with steps and execution results.
+* **output.xml**: Raw output file for the test run.
+* **report.html**: Test summary report.
+* **log.html**: Detailed test logs with steps and execution results.
 You can open report.html in your browser to view a high-level summary of the test results, or use log.html for detailed information.
